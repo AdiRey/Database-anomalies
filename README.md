@@ -1,3 +1,3 @@
-# LabyBD_3
+# Database anomalies
 Laboratorium 3 - kod
 Anomalie bazy danych.
